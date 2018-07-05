@@ -2,7 +2,7 @@
 
 This is the site source for TartanHacks CrashCourse. We're using Jekyll to build
 and compile our site. We're not using GitHub Pages, though, because we wanted to
-host the site from <http://scottylabs.com/crashcourse>.
+host the site from <http://scottylabs.org/crashcourse>.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
